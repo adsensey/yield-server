@@ -27,7 +27,7 @@ jobs:
           privileged `Comment_PR` job (`pull-requests: write`) because
           `pr-number.txt` in the same artifact says `1`.
 
-          Marker: `artifact-branch-A`.
+          Marker: `artifact-branch-B`. This comment is posted onto PR #1 by the artifact of **this** PR.
 
 MD
 
